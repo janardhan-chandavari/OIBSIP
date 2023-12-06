@@ -7,3 +7,5 @@ Web Development and Designing Assignments
 
 ## Task 2
 - Creating a Temperature-converter Website (https://janardhan-chandavari.github.io/OIBSIP_L1_Task3/)
+## Task 3
+- Creating a calculator (https://janardhan-chandavari.github.io/OIBSIP_L2_Task1/)
